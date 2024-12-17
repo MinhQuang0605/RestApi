@@ -1,0 +1,59 @@
+{
+    "post": [
+        {
+        "id": 1,
+        "title": "Cách nấu phở bò truyền thống",
+        "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống thơm ngon và đậm đà."
+      },
+      {
+        "id": 2,
+        "title": "Du lịch Đà Lạt",
+        "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua."
+      },
+      {
+        "id": 3,
+        "title": "Hướng dẫn sử dụng Flutter",
+        "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động."
+      },
+      {
+        "id": 4,
+        "title": "Hướng dẫn sử dụng React",
+        "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng React để phát triển ứng dụng di động."
+      },
+      {
+        "id": 5,
+        "title": "Hướng dẫn sử dụng Xamarin",
+        "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Xamarin để phát triển ứng dụng di động."
+      },
+      {
+        "id": 6,
+        "title": "Du lịch trong tù",
+        "body": "Kinh nghiệm du lịch trong tù tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua trong tù."
+      }
+
+    ],
+
+    "user": [
+        {
+            "username" : "abcxyz",
+            "password" : "abcxyz1213",
+            "fullname" : "Idoncare"
+        },
+        {
+            "username" : "Tai123",
+            "password" : "abcxyz1213",
+            "fullname" : "TaiMap"
+        },
+        {
+            "username" : "Quang123",
+            "password" : "abcxyz12345",
+            "fullname" : "Quang"
+        },
+        {
+            "username" : "Nghia111",
+            "password" : "abcxyz12345",
+            "fullname" : "Nghia"
+        }
+    ]
+}
+
